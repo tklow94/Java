@@ -22,3 +22,10 @@
         //int myNumber;
         //myNumber = 0;
         //myNumber = myNumber + 5;
+    //Classes and Objects: Classes group variables and operations together. They are not objects but can instantiate them in instances of that class. Class is the blueprint to create the object. Classes can have fields, constructors, and methods.
+        //Fields: Variable that belongs to a class or object, like the word brand is a variable of a car. 
+        //Constructors: Type of method that are executed when an object is created. They typically initialize the variables that belong to a class.
+        //Methods: Groups of operations that carry out a function.
+
+//Java Syntax
+    
